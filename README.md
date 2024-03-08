@@ -12,7 +12,7 @@ Foi intalado o express via terminal com comando " npm i express ".
 Para reload automatico do servidor após edição:
 " npm i -g nodemon " tirar o g caso nao instalar devido a permissoes
 
-Alterar packjason :
+Alterar packjson :
 "scripts": {
     "dev": "nodemon index.js"
   },
